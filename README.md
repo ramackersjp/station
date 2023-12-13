@@ -32,4 +32,3 @@ Runs the app in development mode.
 Open http://localhost:3000 to view it in the browser.
 
 > Note: For the Windows operating system, separate the paths by semicolons in the `.env` file.
-# Terra-Classic-Station
